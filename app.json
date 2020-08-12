@@ -19,7 +19,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "alinajibi.host.app"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
